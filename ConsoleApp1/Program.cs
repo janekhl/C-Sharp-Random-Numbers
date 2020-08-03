@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace C_Sharp_Random_Numbers
+namespace ConsoleApp1
 {
     class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             var randomNumber = new Random();
 
